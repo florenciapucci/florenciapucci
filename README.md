@@ -7,9 +7,9 @@
 
 Florencia Pucci
 
--contact
+- contact
 
-Educación
+Education
 
 Teaching
 
