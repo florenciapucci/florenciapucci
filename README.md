@@ -1,19 +1,4 @@
-# T1
-## T2
-### T3
-#### T4
-##### T5
-###### T6
-
-Florencia Pucci
-
-- contact
-
-Education
-
-Teaching
-
-Coding
-
-
+### CODING
 - [Cleaning in R](https://github.com/florenciapucci/Cleaning-in-R)
+- [Scrapping Dimensions with Python](https://github.com/florenciapucci/Scrapping-in-Dimensions)
+- [Randomization Experiment with Python](https://github.com/florenciapucci/Randomization-experiment-religion-CVs)
