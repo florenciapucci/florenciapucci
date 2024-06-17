@@ -1,6 +1,6 @@
 ### CONTACT
 
-- [flor.pucci@hotmail.com](mailto:flor.pucci@hotmail.com)
+- [fipucci@wisc.edu](mailto:fipucci@wisc.edu)
 
 
 
